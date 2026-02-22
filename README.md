@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Singh
+# Hi, I'm Nikhil Kumar Singh
 
 BCA (Artificial Intelligence & Machine Learning)  
 AI | Machine Learning | Data Analytics | DSA  
